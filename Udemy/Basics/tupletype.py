@@ -3,3 +3,7 @@ print(t)
 print(t*3)
 print(t.count(20))
 print(t.index(30))
+lst1=[1,5,'we',True]
+tpl1=tuple(lst1)
+print(type(tpl1))
+
