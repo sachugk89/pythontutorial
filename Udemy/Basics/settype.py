@@ -5,4 +5,3 @@ s.update([88,99])
 s.remove(30)
 print(s)
 f=frozenset(s)
-f.
